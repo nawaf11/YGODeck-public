@@ -1,5 +1,5 @@
 # Yugioh Deck Builder
-![Screenshot](screenshots/sh1.png)
+![Screenshot](screenshots/shn1.png)
 ![Screenshot](screenshots/sh2.png)
 ![Screenshot](screenshots/sh3.png)
 ![Screenshot](screenshots/sh4.png)
