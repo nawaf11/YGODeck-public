@@ -22,6 +22,7 @@ Features:
  - Card Prices with Live Prices from Ebay API
  - Preview real card image
  - Favorite List
+ - Share your decks ideas with other user ( Deck cloud ).
  
 Download From Play store: [APK](https://play.google.com/store/apps/details?id=com.ygoproject.nawaf.yugiohdeckbuilder)<br>
 
